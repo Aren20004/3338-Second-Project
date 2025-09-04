@@ -1,0 +1,29 @@
+commit 97d20eb39818073b874739e73cb901732eddfc25
+Author: Aren Keshishian <keshishian.aren04@gmail.com>
+Date:   Wed Sep 3 19:01:15 2025 -0700
+
+    Added my favorite movie in a div
+
+commit fd1817f12a4836e058ab3a42d30d748b620a33b1
+Author: Aren Keshishian <keshishian.aren04@gmail.com>
+Date:   Wed Sep 3 18:58:56 2025 -0700
+
+    Added a div with my favorite food
+
+commit e6401396723af3d1cc217dce17aa2461c5657203
+Author: Aren Keshishian <keshishian.aren04@gmail.com>
+Date:   Wed Sep 3 18:51:45 2025 -0700
+
+    Add README.md describing the repo
+
+commit 5822306932d7716969c4dee3859c82f880004e40
+Author: Aren Keshishian <keshishian.aren04@gmail.com>
+Date:   Wed Sep 3 18:49:29 2025 -0700
+
+    Added my name and hobby to index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
